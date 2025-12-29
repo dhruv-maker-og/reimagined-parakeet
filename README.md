@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations dhruv-maker-og! 🎉
+# 🎉 Congratulations dhruv-maker-og! 
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
